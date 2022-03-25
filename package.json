@@ -1,0 +1,16 @@
+{
+  "name": "directus-node-file-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "directus": "^9.7.1",
+    "sqlite3": "^5.0.2",
+    "form-data": "4.0.0",
+    "@directus/sdk": "9.7.1"
+  }
+}
